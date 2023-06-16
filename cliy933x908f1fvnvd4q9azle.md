@@ -4,7 +4,7 @@ seoTitle: "Bitcoin Vs Blockchain:  Future of Finance"
 datePublished: Fri Jun 16 2023 07:30:39 GMT+0000 (Coordinated Universal Time)
 cuid: cliy933x908f1fvnvd4q9azle
 slug: bitcoin-vs-blockchain-future-of-finance
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686894018556/6f9787a9-9d7d-4a4b-8dbb-c40c4f062cef.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686903432068/970f6735-3223-43f3-8098-2bcf4582d24d.png
 tags: technology, blockchain, bitcoin, cryptocurrency, blockchain-technology
 
 ---
