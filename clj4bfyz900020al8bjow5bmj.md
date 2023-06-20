@@ -48,7 +48,7 @@ Now, we will take a closer look at the inner workings of Linux, exploring its ke
 * Package Management and Software Installation: Package management systems simplify the process of installing, updating, and removing software on Linux distributions. Distributions like Debian use the Advanced Package Tool (APT), while Red Hat-based distributions rely on the Yellowdog Updater, Modified (YUM) or the newer DNF (Dandified YUM). These package managers fetch software packages from repositories, resolve dependencies, and handle software installation and updates automatically. This streamlined process ensures a consistent and secure environment for software management.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687267317520/65ee6226-62be-4d28-94b2-b0b0e95da436.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687267487460/e22e89cf-d7e1-400a-90d9-d8daa4684eda.png align="center")
 
 ### Conclusion:
 
