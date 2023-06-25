@@ -32,7 +32,7 @@ SQL databases are built on the relational model, which organizes data into struc
 3. Scalability: While SQL databases offer vertical scalability by adding more resources to a single server, they may face limitations in horizontal scalability. Scaling SQL databases horizontally often involves complex sharding and partitioning techniques, making it less straightforward compared to NoSQL databases.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687634681355/0a1347dc-8338-461e-8af7-349f5d96b458.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687680961797/89c51753-77e3-46d3-9b91-53a1ed3031ef.png align="center")
 
 In continuation, let's have a look at NoSQL.
 
@@ -47,7 +47,7 @@ NoSQL databases are designed to handle large volumes of unstructured or semi-str
 3. Performance: NoSQL databases can deliver high performance for specific use cases. With denormalized data models and distributed architectures, they can optimize read and write operations, making them efficient for applications that require real-time data access and high throughputs, such as social media platforms or real-time analytics systems.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687634702006/03bfdb93-1b93-4bf8-9d56-23831a5eeea2.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687680652630/90bd0163-1939-4d63-8135-b43272996925.png align="center")
 
 ## Choosing the Right Database:
 
@@ -61,6 +61,8 @@ Selecting the appropriate database paradigm depends on the specific requirements
     
 
 > The decision between SQL and NoSQL hinges on finding the right balance between data structure, scalability, and development needs.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687680489485/ea3b1dd4-b5b7-41dd-8331-d8315e04b662.jpeg align="center")
 
 ## Conclusion:
 
