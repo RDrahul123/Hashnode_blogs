@@ -66,6 +66,8 @@ From the early days of command-line interfaces to the integration of artificial 
     * Discuss features like user authentication, access control, encryption, and secure boot processes.
         
 
+![](https://preview.redd.it/azoeztp0a2a81.png?width=4613&format=png&auto=webp&v=enabled&s=15edb444700381397b9d94df0f5b5240da7572c0 align="center")
+
 ### Key Functions of an Operating System:
 
 1. Process Management: The OS manages processes, which are instances of running programs. It allocates system resources, schedules tasks, and ensures their timely execution, allowing multiple processes to run concurrently while maintaining stability and security.
