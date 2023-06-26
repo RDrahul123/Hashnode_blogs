@@ -106,9 +106,13 @@ From the early days of command-line interfaces to the integration of artificial 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687784638293/479c9428-6311-4381-897c-e62858f19596.png align="center")
 
+In the given image simple batch operating system means Uni-Tasking or Single-Tasking Operating Systems. So don't get confused, they both have the same meaning.
+
 > As technology advances, operating systems continue to evolve. Emerging trends include the growth of cloud-based operating systems, which leverage remote servers for processing power and storage, reducing the reliance on local hardware. Additionally, virtualization and containerization technologies enable the deployment of multiple operating systems on a single machine, enhancing flexibility and resource utilization.
 
 ### Future of Operating Systems:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1687810170251/591ca2f0-e0be-4ed9-8fbd-148d5ad31454.png align="center")
 
 1. Cloud-Based Operating Systems: Cloud computing has revolutionized the way we store and access data. Cloud-based operating systems, also known as web-based or browser-based operating systems, rely on remote servers to handle processing power and storage. These systems reduce hardware requirements and enable users to access their files and applications from any device with an internet connection. They also facilitate collaborative work environments and simplify software updates.
     
